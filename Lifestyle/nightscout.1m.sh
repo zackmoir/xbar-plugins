@@ -8,7 +8,7 @@
 # <xbar.image>https://raw.githubusercontent.com/jhaydraude/NightscoutBitBar/master/Preview.png</xbar.image>
 # <xbar.abouturl>https://github.com/jhaydraude/NightscoutBitBar/blob/master/README.md</xbar.abouturl>
 #
-# <xbar.var>string(VAR_NSURL=""): Your own Nightscout URL.</xbar.var>
+# <xbar.var>string(VAR_NSURL="https://zacknightscout.crabdance.com"): Your own Nightscout URL.</xbar.var>
 # <xbar.var>string(VAR_TOKEN=""): Your own Nightscout API Token</xbar.var>
 # <xbar.var>boolean(VAR_USEMMOL=true): Use mmol/l otherweise mg/dl</xbar.var>
 
